@@ -11,4 +11,4 @@ Run the script: ./salt-updater.sh -i /var/www/website.com/public/. <br>
 For bulk updates run ./salt-updater.sh -t list-of-folders.txt <br>
 
 # use at your own risk!
-Remember to test it on a non-production setup first to ensure that everything is functioning correctly.<br>
+Remember to test on a non-production setup first to ensure that everything is functioning correctly.<br>
